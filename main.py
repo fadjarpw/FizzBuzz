@@ -8,7 +8,10 @@ for game in range(1, 100):
     print("Buzz")
   else:
     print(game)
+<<<<<<< HEAD
 
 
 print("End Of Lifeeeeee")
+=======
+>>>>>>> origin/main
   
